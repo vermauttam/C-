@@ -1,0 +1,10 @@
+1.  C is Functional Programming Language
+2.  C program requires atleast one function
+3.  C program require main() to run
+4.  Every C program starts from main() and end with main()
+5.  C program not allow function in side function
+6.  In C, One function can call another function
+7.  Declaration of function in C
+8.  C supports two types of function
+9.  C is case-sensitive language
+10. C program require compiler to develop
