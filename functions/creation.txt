@@ -1,0 +1,7 @@
+Ways to create and call a function in C:-
+
+1.Creating a function above main function
+2.Creating a function below main function
+3.Creatig a function inside main function
+4.Creating a functionn inside a header file and then calling from another C file
+5.Creating function inside a C file and calling it from another C file
