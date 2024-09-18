@@ -1,0 +1,31 @@
+All Phases of C program:-
+
+Step 1: Editing phase done by Editor/Programmer
+
+File is created with .c, .h, .cpp exentsion 
+and File is saved in Hard disk
+
+Step 2: Preprocessing phase done by Preprocessor directive operator
+
+Line starting with '#' are to be preprocessd by preprocessor
+
+
+Step 3: Compiling phase done by Compiler
+
+Creates an Intermediate code/ Assembly code/ Object code  with extension of .obj 
+*note- Binary code is not created by compiler in C
+
+
+Step 4: Linking phase done by Linker
+
+Creates .exe executable file by combining Object code + m/c (Machine) information
+
+Step 5: Loading phase done by Loader
+
+.exe executable file is stored inside the memory from hard disk
+
+
+Step 6: Executing phase done by CPU
+
+.exe file is executed by CPU
+
