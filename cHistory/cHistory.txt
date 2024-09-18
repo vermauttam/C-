@@ -1,0 +1,20 @@
+1960 :
+Ken Thompson, Dennis Ritchi, Brain Kernighan, Douglas Mcllroy and team wrote UNIX operating system
+AT & T Bell lab was working on UNIX operating system which ran on PDP-7 (Which was written in Assembly language, also which was painful and 
+hard to debug assembly code) therefore Ken Thompson decided do develop a High Level Programming Language to debug UNIX OS debug eaasily
+so he designed a small language B (Bell) which was based on BCPL (Basic Combined Programming language)
+
+1970 :
+
+Dennis Ritchi joined the UNIX project and began progamming in B, In 1970 Bell Lab acquired PDP-11 for the UNIX project 
+
+1971:
+Thomposon rewrote a portion of B in PDP-11 but it was not working on PDP-11 due to the portability issue of language B
+So, Dennis Ritchie started to develop the extended version of B to make it portable and name it as NB(NewB)
+
+
+1972:
+
+As it began to diverse more from B he changed named to C.
+
+This language was stable enough by 1973 to be rewrite UNIX in C.
