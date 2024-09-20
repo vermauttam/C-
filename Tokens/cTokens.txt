@@ -1,0 +1,8 @@
+Tokens in C language:-
+
+1.Keywords
+2.Identifiers
+3.Operators
+4.Separators/Special Symbols
+5.Constants
+6.Strings 
