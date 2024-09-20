@@ -1,0 +1,11 @@
+                                      Types of Opoerators in C
+
+
+
+1.Unary Operators
+2.Binary Operators
+3.Ternary Operators                                     
+
+
+
+
