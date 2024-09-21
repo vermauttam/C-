@@ -1,0 +1,53 @@
+Arithmetic:-
+
++   addition
+-   subtration
+*   multiplication
+/   divisin:-
+int/not int = not int quotient       sign depends upon if there is - or not
+not int/ int = not int quotient
+int/int = int = int quotient
+%   modulus:-
+int % int = modulus operator works only on integers                  sign depends upon the numerator
+
+
+
+Logical:-
+
+&&  Logical AND    evaluated if 1st one is true     if 1st is false then output is 0                   -integers will be true
+
+||  Logical OR     if 1st one is true output is 1    if 1st one is false then it is evaluated          -integers will be true
+
+
+
+Bitwise:-
+
+Bitwise AND   (&)    normal AND operation
+Bitwise OR    (|)    normal OR operation
+Bitwise XOR   (^)    normal XOR operation
+
+
+ Shift:-
+
+Left Shift (<<)     Value << Count;      A<<B = A*2^n
+
+Right Shift (>>)    Value >> Count;      A>>B = A/2^n
+
+
+Relational/Comparison:-
+
+>     Greater than 
+>=    Greater than or equal to 
+<     Less than
+<=    Less than or equal to 
+==    Equal to 
+!=    Not equal to 
+
+
+
+
+Assignment:-
+
+=
+
+

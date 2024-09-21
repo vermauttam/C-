@@ -1,0 +1,19 @@
+Operator              Operation
+
+++                    Increment
+
+--                    Decrement
+
++                     Sign Plus
+
+-                     Sign Minus
+
+*                     Pointer Direction
+
+&                     Address of
+
+!                     Logical NOT
+
+~                     Bitwise NOT
+
+sizeof                Sizeof Operator
