@@ -3,6 +3,9 @@ Unicode -                                                       used by Java lan
 ISCII - Indian Standard Code for Information Interchange
 
 
+
+Total characters of ASCII in C = 2^8 = 256
+
 65 - A to 90 - Z
 
 97 - a to 122 - z
