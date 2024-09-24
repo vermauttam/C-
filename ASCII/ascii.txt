@@ -1,0 +1,10 @@
+ASCII - American Standard Code for Information Interchange      used by C language
+Unicode -                                                       used by Java language
+ISCII - Indian Standard Code for Information Interchange
+
+
+65 - A to 90 - Z
+
+97 - a to 122 - z
+
+48 - 0 to  57 - 9
