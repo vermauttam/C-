@@ -1,0 +1,38 @@
+PUASRBLTAC
+
+
+P    Postfix                                Left to Right
+U    Unary              Right to Left
+A    Arithmethic                            Left to Right
+S    Shift                                  Left to Right
+R    Relational                             Left to Right
+B    Bitwise                                Left to Right
+L    Logical                                Left to Right
+T    Ternary            Right  to Left
+A    Assignment         Right  to Left
+C    Comma                                  Left to Right
+
+
+
+
+
+P  (),[],++,--,->,.
+
+U  ++,--,*,&,!,~,sizeof,+,-                 Right to Left
+
+A  *,/,%,+,-
+
+S  <<,>>
+
+R  <,<=,>,>=,==,!=
+
+B  &,^,|
+
+L  &&, ||
+
+T  ? :                                      Right to Left
+
+A  =,+=,-=,*=,/=,%=,&=,^=,|=,<<=,>>=        Right to Left
+
+C  ,
+
