@@ -1,0 +1,17 @@
+Input statement: 
+scanf(), getch(), getchar(), gets()
+
+Output statement:
+printf(), putf()
+
+Assignment statement:
+
+Declaration statement:
+
+Initialization statement:
+
+Definition statement:
+
+Control statement:
+
+Computational statement:
