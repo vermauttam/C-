@@ -1,0 +1,7 @@
+\n        For creating a new line
+
+\t        For creating a space or tab 
+
+\0        Null escape
+
+\
