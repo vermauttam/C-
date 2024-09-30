@@ -1,0 +1,27 @@
+Input statement: 
+scanf(), getch(), getchar(), gets()
+
+Output statement:
+printf(), putch(), putchar(), puts()
+
+Assignment statement:
+a = 5, i = j;
+
+Declaration statement:
+int x, y, z;
+
+Initialization statement:
+int x = 10;
+
+Definition statement:
+function() {
+
+}
+
+Control statement:                                                                                     //Controls sequence of other statements
+if, else if, switch, do while, while, for, break, continue, goto, return
+
+
+Computational statement:
+i++ + ++j;
+
