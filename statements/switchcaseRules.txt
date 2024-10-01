@@ -1,0 +1,8 @@
+1. Only constant cases are allowed
+2. default, break are optional
+3. default can be anywhere
+4. int/char cases are valid
+5. cases can be in random order
+6. cases can be non-contiguous
+7. empty cases are valid
+8. duplicate cases are not allowed
