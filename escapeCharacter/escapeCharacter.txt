@@ -4,4 +4,12 @@
 
 \0        Null escape
 
-\
+\b        For creating a back space
+
+\\        Creating a backslash
+
+\'        Creating a single quote
+
+\"        Creating a double quote
+
+
