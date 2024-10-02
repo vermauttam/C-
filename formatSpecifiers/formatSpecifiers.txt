@@ -1,0 +1,17 @@
+%d  == %i           Decimal Integer / Signed Integer
+
+%c                  Character
+
+%u == %p            Unsigned Integer
+
+%ld                 Long Double
+
+%o                  Octal Integer
+
+%x == %X            Hexadecimal Integer
+
+%f == %e            Float type
+
+%f == %lf           Double type / Long Double
+
+%s                  Strings
