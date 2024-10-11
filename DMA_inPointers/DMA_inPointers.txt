@@ -1,0 +1,11 @@
+For memory allocation at run-time for 'Pointers' in C,  DMA concept in implemented to get Pointers a memory at run-time
+DMA-Dynamic Memory Allocation
+
+
+
+Implementation of DMA using pre-defined functions:
+
+malloc()
+calloc()
+realloc()
+free()
