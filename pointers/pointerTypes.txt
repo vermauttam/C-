@@ -1,9 +1,9 @@
 void pointer  == void *v; can stoe any different variable in void pointer
 NULL pointer  == int *p =NULL; pointer whose value is NULL
-wild pointer  ==
+wild pointer  == pointer which is only declared but not initialized 
 constant pointer == const int *p=&a; pointer which always points to fixed location
-Dangling   
-Pointer to Pointer
+Dangling pointer == 
+Pointer to Pointer == when a pointer is stored in another pointer 
 Array Pointer, Function Pointer, Structure Pointer, File Pointer
 
 
