@@ -1,0 +1,10 @@
+Addition / Subtraction with Integer constant
+Increment(++)/ Decrement(--)
+Only Subtract 2 Pointers of same type
+Assign NULL(pre-defined Constant)
+Assignment of the pointer to other of same type
+* indirection opertor
+& address of operator
+[] subtract operation
+Member access operator(->)
+Comparison(==,!,=)

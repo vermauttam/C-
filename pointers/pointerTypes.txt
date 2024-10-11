@@ -1,0 +1,12 @@
+void pointer  == void *v; can stoe any different variable in void pointer
+NULL pointer  == int *p =NULL; pointer whose value is NULL
+wild pointer  ==
+constant pointer == const int *p=&a; pointer which always points to fixed location
+Dangling   
+Pointer to Pointer
+Array Pointer, Function Pointer, Structure Pointer, File Pointer
+
+
+Near Pointer  }
+Far Pointer   }-------outdated
+Huge Pointer  }

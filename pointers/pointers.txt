@@ -1,0 +1,64 @@
+Pointers - It is a variable, that stores(holds) the address of data items.
+
+data items: Variable,Array,Function,Structure,union,file,pointer
+
+Declaration of pointer:
+
+datatype * Variable;                    ----any datatype and a valid identifier
+
+example: 
+int *p;
+char *q;
+
+
+Initialization of pointer:
+
+int a *p;               ----not initialized (called Wild Pointer)
+
+p = &a;                 ---- initialized pointer 
+
+examples:
+int a=5, *p;
+float b=1.2, *q;
+char c='S', *r;
+
+p=&a;
+q=&b;
+r=&c;
+
+
+Pointer dataType: Unsigned Integer (because Pointers holds address and address can only be Positive, Whole Number)
+
+
+sizeof Pointer is depends upon the bit of compiler(if 32-bit processor then 4-bytes / if 16-bit processor then 2-bytes)
+
+Pointer Indirection / de-reference : Get the value of variable wihout naming the variable itself
+
+'*' = Value at address
+'&' = Address of Value
+
+
+* pointer
+** pointer to pointer
+
+
+
+example:
+int a=23, *p,**q;
+p=&a; q=&p;
+
+printf("a=%d",a); //a=7
+printf("a=%d",*p); //a=7
+printf("a=%d",**p); //a=7
+
+
+
+ 
+
+
+
+
+
+
+
+
