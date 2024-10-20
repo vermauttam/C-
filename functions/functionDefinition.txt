@@ -1,0 +1,20 @@
+
+
+
+
+
+    output datatype-> Return type  Name(arguments or parameters) {
+
+                       // statements
+                       }
+
+
+
+example:- 
+
+int add(int a, int b) {
+    int c;
+    c = a + b; 
+    return c;
+
+}   
