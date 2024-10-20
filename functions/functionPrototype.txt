@@ -1,0 +1,5 @@
+Function Prototypes:-
+1.Functions with arguments, with return values
+2.Functions with arguments, without return values
+3.Functions without arguments, with return values
+4.Functions without arguments, without return values
