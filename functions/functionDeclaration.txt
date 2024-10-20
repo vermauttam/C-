@@ -1,0 +1,12 @@
+Function Prototype Declaration:-
+
+When to declare a function--> If a function is called before it is defined Then Declaration is mandatory.
+
+
+
+Return type Name(arguments type);
+
+
+example:-
+
+int add(int,int);
