@@ -1,0 +1,10 @@
+Functions are stored inside the Header file
+
+Functions are of 2 types:-
+1.Pre-defined or System-defined or In-built or Library Functions
+
+example:- printf(), scanf(), getch(), getchar(), puts(), strlen(), strcmp(), sizeof()....
+
+
+2.User-defined:
+example:- main()
