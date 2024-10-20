@@ -1,0 +1,10 @@
+Name(argument values);
+
+example:-
+
+add(3,4);
+
+or
+
+int i = 5, j = 7;
+add(i,j);
