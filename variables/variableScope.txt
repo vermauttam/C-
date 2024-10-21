@@ -1,0 +1,8 @@
+Scope of a Variable : The extent (limit) upto which a variable can be accessed .
+
+2 Types: 
+
+1. Local Scope or Block Scope - Variable can be accessed only within the block, where it is defined
+2. Global Scope or File Scope - Throughout Program, Variable can be accessed 
+
+Local Scope > Global Scope
